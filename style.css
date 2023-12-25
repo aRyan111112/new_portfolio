@@ -431,3 +431,69 @@ footer {
 footer p {
   text-align: center;
 }
+
+/* added css */
+
+.seta{
+  display: flex;
+  flex-direction: column;
+  /* padding: auto; */
+}
+
+
+.ques li{
+  display: inline-flex;
+  flex-direction: column;
+  margin-left: 2rem;
+  margin-bottom: 0.5rem;
+}
+
+.firstinternal{
+  display: inline-flex;
+  flex-direction: column;
+  gap: rem;
+  border: rgb(163, 163, 163) 0.1rem solid;
+  border-radius: 2rem;
+  padding: 15px 20px 15px 20px;
+  
+}
+
+.secondinternal{
+  border: rgb(163, 163, 163) 0.1rem solid;
+  border-radius: 2rem;
+  padding: 15px 20px 15px 20px;
+}
+
+.thirdinternal{
+  border: rgb(163, 163, 163) 0.1rem solid;
+  border-radius: 2rem;
+  padding: 15px 20px 15px 20px;
+}
+
+#assignment{
+  /* padding: 1rem; */
+  display: flex;
+  flex-direction: column;
+}
+
+.st{
+  margin-left: 1.5rem;
+}
+
+.thirdinternal{
+  margin-top: 1.5rem;
+}
+
+.mainpart{
+  display: flex;
+  flex-direction: row;
+}
+
+.heading{
+  margin-bottom: 1rem;
+}
+
+
+
+
+
